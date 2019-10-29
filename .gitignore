@@ -36,6 +36,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Mac
+
 # General
 .DS_Store
 .AppleDouble
